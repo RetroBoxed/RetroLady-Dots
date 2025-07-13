@@ -3,7 +3,7 @@ This repository is created with the intention of safeguarding my settings and sh
 ## Important
 >the Apps i use in the images are
 
-Spotify, Neovim(<sup>Lazyvim with RetroBox theme</sup>), Discord, Spotify<sup>specify lucid theme </sup>, quickshell, Visual Studio Code <sup>Retrobox Theme</sup>, Zen Browser,
+Neovim(<sup>Lazyvim with RetroBox theme</sup>), Discord, Spotify<sup>specify lucid theme </sup>, quickshell, Visual Studio Code <sup>Retrobox Theme</sup>, Zen Browser,
 >Cli Commands
 
 FastFetch, Cava, Bonsai, cmatrix
